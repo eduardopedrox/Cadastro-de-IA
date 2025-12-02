@@ -1,0 +1,78 @@
+C:\Users\Aluno\source\repos\Atividade IA DS\Atividade IA DS\bin\Debug\Banco de Dados.mdf
+C:\Users\Aluno\source\repos\Atividade IA DS\Atividade IA DS\bin\Debug\Banco de Dados_log.ldf
+C:\Users\Aluno\source\repos\Atividade IA DS\Atividade IA DS\bin\Debug\Atividade IA DS.exe.config
+C:\Users\Aluno\source\repos\Atividade IA DS\Atividade IA DS\bin\Debug\Atividade IA DS.exe
+C:\Users\Aluno\source\repos\Atividade IA DS\Atividade IA DS\bin\Debug\Atividade IA DS.pdb
+C:\Users\Aluno\source\repos\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade_IA_DS.Form1.resources
+C:\Users\Aluno\source\repos\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade_IA_DS.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.exe
+C:\Users\Aluno\source\repos\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.pdb
+E:\Atividade IA DS\Atividade IA DS\bin\Debug\Banco de Dados.mdf
+E:\Atividade IA DS\Atividade IA DS\bin\Debug\Banco de Dados_log.ldf
+E:\Atividade IA DS\Atividade IA DS\bin\Debug\Atividade IA DS.exe.config
+E:\Atividade IA DS\Atividade IA DS\bin\Debug\Atividade IA DS.exe
+E:\Atividade IA DS\Atividade IA DS\bin\Debug\Atividade IA DS.pdb
+E:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.csprojAssemblyReference.cache
+E:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade_IA_DS.Form1.resources
+E:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade_IA_DS.Properties.Resources.resources
+E:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.GenerateResource.cache
+E:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.CoreCompileInputs.cache
+E:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.exe
+E:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.pdb
+D:\Atividade IA DS\Atividade IA DS\bin\Debug\Banco de Dados.mdf
+D:\Atividade IA DS\Atividade IA DS\bin\Debug\Banco de Dados_log.ldf
+D:\Atividade IA DS\Atividade IA DS\bin\Debug\Atividade IA DS.exe.config
+D:\Atividade IA DS\Atividade IA DS\bin\Debug\Atividade IA DS.exe
+D:\Atividade IA DS\Atividade IA DS\bin\Debug\Atividade IA DS.pdb
+D:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade_IA_DS.Form1.resources
+D:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade_IA_DS.Properties.Resources.resources
+D:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.GenerateResource.cache
+D:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.CoreCompileInputs.cache
+D:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.exe
+D:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.pdb
+D:\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.AssemblyReference.cache
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\bin\Debug\Banco de Dados.mdf
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\bin\Debug\Banco de Dados_log.ldf
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\bin\Debug\Atividade IA DS.exe.config
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\bin\Debug\Atividade IA DS.exe
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\bin\Debug\Atividade IA DS.pdb
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.csprojAssemblyReference.cache
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade_IA_DS.Form1.resources
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade_IA_DS.Properties.Resources.resources
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.GenerateResource.cache
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.CoreCompileInputs.cache
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.exe
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade IA DS.pdb
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade_IA_DS.FrmCategoria.resources
+E:\Nova pasta\Atividade IA DS\Atividade IA DS\obj\Debug\Atividade_IA_DS.FrmFabricante.resources
+E:\etec\2024\DS\projeto IA\Atividade IA DS\bin\Debug\Banco de Dados.mdf
+E:\etec\2024\DS\projeto IA\Atividade IA DS\bin\Debug\Banco de Dados_log.ldf
+E:\etec\2024\DS\projeto IA\Atividade IA DS\bin\Debug\Atividade IA DS.exe.config
+E:\etec\2024\DS\projeto IA\Atividade IA DS\bin\Debug\Atividade IA DS.exe
+E:\etec\2024\DS\projeto IA\Atividade IA DS\bin\Debug\Atividade IA DS.pdb
+E:\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade IA DS.csprojAssemblyReference.cache
+E:\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade_IA_DS.FrmCategoria.resources
+E:\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade_IA_DS.FrmFabricante.resources
+E:\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade_IA_DS.Form1.resources
+E:\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade_IA_DS.Properties.Resources.resources
+E:\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.GenerateResource.cache
+E:\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.CoreCompileInputs.cache
+E:\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade IA DS.exe
+E:\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade IA DS.pdb
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\bin\Debug\Banco de Dados.mdf
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\bin\Debug\Banco de Dados_log.ldf
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\bin\Debug\Atividade IA DS.exe.config
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\bin\Debug\Atividade IA DS.exe
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\bin\Debug\Atividade IA DS.pdb
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade IA DS.csprojAssemblyReference.cache
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade_IA_DS.FrmCategoria.resources
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade_IA_DS.FrmFabricante.resources
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade_IA_DS.Form1.resources
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade_IA_DS.Properties.Resources.resources
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.GenerateResource.cache
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade IA DS.csproj.CoreCompileInputs.cache
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade IA DS.exe
+E:\compacto\compacto\etec\2024\DS\projeto IA\Atividade IA DS\obj\Debug\Atividade IA DS.pdb
